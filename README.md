@@ -1,74 +1,82 @@
-🎯 About Me
-I'm a Master's-level Computer Science Engineer and PhD student researcher specializing in:
+# 🚀 Gherbi Djaafer - AI Engineer Portfolio
 
-🤖 Artificial Intelligence & Machine Learning
+![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-success)
+![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-JavaScript-blue)
+![AI Focus](https://img.shields.io/badge/AI-ML-Research-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-🔧 Computer Hardware Architecture & Maintenance
+Welcome to my personal portfolio website showcasing my expertise as an **AI Engineer & Computer Science Researcher**.
 
-💻 Full-Stack Software Development
+## 🌟 Live Demo
+👉 **[View Live Portfolio](https://gherbidjaafer.github.io)**
 
-🔬 AI Research & Neural Networks
+## 🎯 About Me
+
+I'm a **Master's-level Computer Science Engineer** and **PhD student researcher** specializing in:
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🔧 **Computer Hardware Architecture & Maintenance**
+- 💻 **Full-Stack Software Development**
+- 🔬 **AI Research & Neural Networks**
 
 With exceptional problem-solving skills and the ability to rapidly master new technologies, I bridge the gap between cutting-edge software and robust physical systems.
 
-✨ Features
-🎮 Interactive Experience
-Matrix Code Rain Background with flashlight reveal effect
+## ✨ Features
 
-Hacker-style Glitch Animations for name and text
+### 🎮 Interactive Experience
+- **Matrix Code Rain Background** with flashlight reveal effect
+- **Hacker-style Glitch Animations** for name and text
+- **Custom Glitch Cursor** with dynamic effects
+- **Terminal Boot Sequence** loading animation
+- **Responsive Design** for all devices
 
-Custom Glitch Cursor with dynamic effects
+### 📊 Technical Highlights
+- **Animated Statistics Counter** (Projects, Clients, Coffee)
+- **Interactive Skill Tags** with hover effects
+- **Glassmorphism UI Design** with modern aesthetics
+- **Smooth Scroll Navigation** with scroll-triggered animations
+- **Performance Optimized** for fast loading
 
-Terminal Boot Sequence loading animation
+### 📱 Sections Included
+1. **Hero Section** - Dynamic introduction with glitch effects
+2. **About Section** - Professional background and skills
+3. **Services Section** - AI, Programming & Maintenance expertise
+4. **Stats Section** - Interactive achievement counters
+5. **Contact Section** - Professional contact information
 
-Responsive Design for all devices
+## 🛠️ Technologies Used
 
-📊 Technical Highlights
-Animated Statistics Counter (Projects, Clients, Coffee)
+### Frontend
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Custom animations, gradients, and responsive design
+- **JavaScript** - Interactive elements and animations
+- **AOS Library** - Scroll-triggered animations
+- **RemixIcons** - Iconography
+- **Google Fonts** - Typography (JetBrains Mono & Poppins)
 
-Interactive Skill Tags with hover effects
+### Design Features
+- **CSS Custom Properties** (Variables) for consistent theming
+- **CSS Grid & Flexbox** for advanced layouts
+- **CSS Animations & Keyframes** for smooth transitions
+- **Glassmorphism Design** with backdrop filters
+- **Neon Glitch Effects** with text shadows
 
-Glassmorphism UI Design with modern aesthetics
+## 🚀 Quick Start
 
-Smooth Scroll Navigation with scroll-triggered animations
+### View Online
+Simply visit: **[https://gherbidjaafer.github.io](https://gherbidjaafer.github.io)**
 
-Performance Optimized for fast loading
+### Local Development
+```bash
+# Clone the repository
+git clone https://github.com/gherbidjaafer/gherbidjaafer.github.io.git
+```
+# Navigate to project directory
+cd gherbidjaafer.github.io
 
-📱 Sections Included
-Hero Section - Dynamic introduction with glitch effects
+# Open index.html in your browser
 
-About Section - Professional background and skills
-
-Services Section - AI, Programming & Maintenance expertise
-
-Stats Section - Interactive achievement counters
-
-Contact Section - Professional contact information
-
-🛠️ Technologies Used
-Frontend
-HTML5 - Semantic markup and structure
-
-CSS3 - Custom animations, gradients, and responsive design
-
-JavaScript - Interactive elements and animations
-
-AOS Library - Scroll-triggered animations
-
-RemixIcons - Iconography
-
-Google Fonts - Typography (JetBrains Mono & Poppins)
-
-Design Features
-CSS Custom Properties (Variables) for consistent theming
-
-CSS Grid & Flexbox for advanced layouts
-
-CSS Animations & Keyframes for smooth transitions
-
-Glassmorphism Design with backdrop filters
-
-🔧 Future Enhancements
+###🔧 Future Enhancements
 Add Projects Showcase Section
 
 Implement Dark/Light Mode Toggle
@@ -81,19 +89,18 @@ Add Interactive AI Demos
 
 Include Downloadable CV/Resume
 
-📞 Contact & Connect
+###📞 Contact & Connect
 Email: gherbidjafer@gmail.com
 
 Location: Oran, Algeria
 
 GitHub: @gherbidjaafer
 
-LinkedIn: https://www.linkedin.com/in/gherbi-dja%C3%A2fer-9239a92a5/
+LinkedIn: Gherbi Djaafer
 
-Twitter: https://x.com/GherbiDjaafer
+Twitter: @GherbiDjaafer
 
 🙏 Acknowledgements
-
 AOS Library for scroll animations
 
 Google Fonts for typography
@@ -102,6 +109,14 @@ Unsplash for placeholder images
 
 All open-source contributors whose work inspired this design
 
+###📄 License
+The code and design are licensed under MIT License.
+
+Personal content (images, biographical text, contact information)
+remains my personal property and may not be reused without permission.
+
+Attribution appreciated: If this portfolio inspires your own,
+a mention or link back is appreciated but not required.
 
 ⭐ Star this repo if you find it useful!
 🔄 Fork it to create your own portfolio!
@@ -112,6 +127,3 @@ All open-source contributors whose work inspired this design
 Last Updated: February 2026
 Maintained by: Gherbi Djaafer
 Status: Actively Developed
-
-Neon Glitch Effects with text shadows :)
-
