@@ -92,9 +92,6 @@ LinkedIn: https://www.linkedin.com/in/gherbi-dja%C3%A2fer-9239a92a5/
 
 Twitter: https://x.com/GherbiDjaafer
 
-📄 License
-This project is open source and available under the MIT License.
-
 🙏 Acknowledgements
 
 AOS Library for scroll animations
@@ -112,9 +109,9 @@ All open-source contributors whose work inspired this design
 
 "Engineering Intelligence for the Future" 🚀
 
-Last Updated: January 2024
+Last Updated: February 2026
 Maintained by: Gherbi Djaafer
 Status: Actively Developed
 
-Neon Glitch Effects with text shadows
+Neon Glitch Effects with text shadows :)
 
