@@ -1,4 +1,4 @@
-# 🚀 Gherbi Djaafer - AI Engineer Portfolio
+# Gherbi Djaafer - AI Engineer Portfolio
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-success)
 ![Tech Stack](https://img.shields.io/badge/HTML5-CSS3-JavaScript-blue)
@@ -8,43 +8,43 @@
 
 Welcome to my personal portfolio website showcasing my expertise as an **AI Engineer & Computer Science Researcher**.
 
-## 🌟 Live Demo
-👉 **[View Live Portfolio](https://gherbidjaafer.github.io)**
+## Live Demo
+**[View Live Portfolio](https://gherbidjaafer.github.io)**
 
-## 🎯 About Me
+##  About Me
 
 I'm a **Master's-level Computer Science Engineer** and **PhD student researcher** specializing in:
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🔧 **Computer Hardware Architecture & Maintenance**
-- 💻 **Full-Stack Software Development**
-- 🔬 **AI Research & Neural Networks**
+-  **Artificial Intelligence & Machine Learning**
+-  **Computer Hardware Architecture & Maintenance**
+-  **Full-Stack Software Development**
+-  **AI Research & Neural Networks**
 
 With exceptional problem-solving skills and the ability to rapidly master new technologies, I bridge the gap between cutting-edge software and robust physical systems.
 
-## ✨ Features
+##  Features
 
-### 🎮 Interactive Experience
+###  Interactive Experience
 - **Matrix Code Rain Background** with flashlight reveal effect
 - **Hacker-style Glitch Animations** for name and text
 - **Custom Glitch Cursor** with dynamic effects
 - **Terminal Boot Sequence** loading animation
 - **Responsive Design** for all devices
 
-### 📊 Technical Highlights
+###  Technical Highlights
 - **Animated Statistics Counter** (Projects, Clients, Coffee)
 - **Interactive Skill Tags** with hover effects
 - **Glassmorphism UI Design** with modern aesthetics
 - **Smooth Scroll Navigation** with scroll-triggered animations
 - **Performance Optimized** for fast loading
 
-### 📱 Sections Included
+###  Sections Included
 1. **Hero Section** - Dynamic introduction with glitch effects
 2. **About Section** - Professional background and skills
 3. **Services Section** - AI, Programming & Maintenance expertise
 4. **Stats Section** - Interactive achievement counters
 5. **Contact Section** - Professional contact information
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - **HTML5** - Semantic markup and structure
@@ -61,7 +61,7 @@ With exceptional problem-solving skills and the ability to rapidly master new te
 - **Glassmorphism Design** with backdrop filters
 - **Neon Glitch Effects** with text shadows
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### View Online
 Simply visit: **[https://gherbidjaafer.github.io](https://gherbidjaafer.github.io)**
@@ -71,7 +71,7 @@ cd gherbidjaafer.github.io
 
 # Open index.html in your browser
 
-### 🔧 Future Enhancements
+###  Future Enhancements
 Add Projects Showcase Section
 
 Implement Dark/Light Mode Toggle
@@ -84,7 +84,7 @@ Add Interactive AI Demos
 
 Include Downloadable CV/Resume
 
-### 📞 Contact & Connect
+###  Contact & Connect
 Email: gherbidjafer@gmail.com
 
 Location: Oran, Algeria
@@ -95,7 +95,7 @@ LinkedIn: Gherbi Djaafer
 
 Twitter: @GherbiDjaafer
 
-🙏 Acknowledgements
+ Acknowledgements
 AOS Library for scroll animations
 
 Google Fonts for typography
@@ -113,11 +113,11 @@ remains my personal property and may not be reused without permission.
 Attribution appreciated: If this portfolio inspires your own,
 a mention or link back is appreciated but not required.
 
-⭐ Star this repo if you find it useful!
-🔄 Fork it to create your own portfolio!
-🐛 Report issues if you find any bugs!
+ Star this repo if you find it useful!
+ Fork it to create your own portfolio!
+ Report issues if you find any bugs!
 
-"Engineering Intelligence for the Future" 🚀
+"Engineering Intelligence for the Future" 
 
 Last Updated: February 2026
 Maintained by: Gherbi Djaafer
