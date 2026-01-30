@@ -122,3 +122,13 @@ a mention or link back is appreciated but not required.
 Last Updated: February 2026
 Maintained by: Gherbi Djaafer
 Status: Actively Developed
+
+Future Ideas:
+Cursor improvement animation
+add projects section
+add certificats section
+add clients feedback section
+add links to the buttons (CV, LinkedIN, Twitter, ....ect)
+add themes to switch of between, add animated gherbi.ai with a crazy attractive animation.
+optimize the website.
+And Thanks :)
